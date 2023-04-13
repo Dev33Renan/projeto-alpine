@@ -15,6 +15,7 @@
             <button @click="increment()">Add</button>
         </div>
 
-      @vite(['resources/js/alpine/start.js', 'resources/js/app.js'])
+      <script src="build/assets/app-4ed993c7.js"></script>
+      <script src="build/assets/start-a0fda65d.js"></script>
     </body>
 </html>
